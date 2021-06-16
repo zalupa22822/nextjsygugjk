@@ -5,6 +5,7 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
+<meta name="facebook-domain-verification" content="h96pmk911vwz0dnz5b3k8wgv9uqp7k" />
         <title>Create Next App</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
